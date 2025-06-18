@@ -1,0 +1,17 @@
+/* [project]/src/components/ui/spinner.module.css [app-client] (css) */
+@keyframes spinner-module__z8pT-a__spin {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner-module__z8pT-a__spinner {
+  animation: 1s linear infinite spinner-module__z8pT-a__spin;
+}
+
+
+/*# sourceMappingURL=src_components_ui_spinner_module_a547b9b9.css.map*/
