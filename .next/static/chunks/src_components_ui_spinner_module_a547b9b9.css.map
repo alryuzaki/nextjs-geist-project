@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///project/sandbox/user-workspace/src/components/ui/spinner.module.css"],"sourcesContent":["@keyframes spin {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n\n.spinner {\n  animation: spin 1s linear infinite;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;;AASA","debugId":null}}]
+}
